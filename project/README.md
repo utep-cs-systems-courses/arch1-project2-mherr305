@@ -1,4 +1,4 @@
-Blinky-Buzzy Toy has capable to perfom different task.On the LED screen board
+Blinky-Buzzy Toy is capable to perfom different tasks.On the LED screen board
 you will find four different switches. Each of them will activate the machine
 to do certain things.
 
@@ -9,4 +9,4 @@ Switch 4: This is dedicated to blink,dim, and turn off the LEDs.
 
 In order to run the program, you should go to the button_demo directory and
 type the command "make load". Wait a couple of seconds and the msp430 will
-ract to the switches as described above.
+react to the switches as described above.
