@@ -1,13 +1,13 @@
 #include <msp430.h>
 #include "buzzer.h"
 
-#define C4 262
-#define D4 294
-#define E4 330
-#define F4 350
-#define G4 392
-#define A4 440
-#define Bb4 466
+#define C4 7633
+#define D4 6802
+#define E4 6060
+#define F4 5714
+#define G4 5102
+#define A4 4545
+#define Bb4 4291
 
 void play_intro();
 void play_verse();
